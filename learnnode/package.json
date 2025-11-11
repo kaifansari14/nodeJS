@@ -1,0 +1,21 @@
+{
+  "name": "learnnodejs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "For learning Node Js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "python",
+    "js",
+    "node",
+    "js"
+  ],
+  "author": "kaif Ansari",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
